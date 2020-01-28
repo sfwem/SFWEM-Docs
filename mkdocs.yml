@@ -1,0 +1,10 @@
+site_name: SFWEM Documentation Hub
+
+#nav:
+#    - Docs Home: index.md
+#    - Hub Sites: hub_sites/index.md 
+#    
+#    # NAV FOOTER
+#    - 📖 SFWEM Website: https://sfwem.net
+#    - 📖  AREDN Website: https://arednmesh.org
+theme: readthedocs
