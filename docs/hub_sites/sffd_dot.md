@@ -3,15 +3,15 @@ title: SFFD Station 7 / DOT / NERT
 ---
 
 # Location
-SFFD Station 7 / Department of Training / NERT Office  
+SFFD Station 7 / Division of Training / NERT Office  
 2310 Folsom Street  
-San Francisco, CA 94110  
+San Francisco, CA  94110  
 
 # Contacts
 Site maintenance is managed by the SFWEM Team in cooperation with the SFFD NERT Program.
 
 ** Control Operator **  
-SFFD Capt. Erica Arteseros  
+SFFD Captain Erica (Arteseros) Brown
 KI6NXL, sffdnert@sfgov.org
 
 ** Tech / Admin Contact **  
@@ -21,7 +21,8 @@ sfwem@undef.net
 ***
 
 # Node Sites
-This is a large complex, hosting multiple SFFD resources, including an active station, the Department of Training, and various program offices.
+This is a large complex, hosting multiple SFFD resources, including an active station, the Division of Training, and 
+various program offices.
 
 ## Site A: On top of the training  tower
 Approximately 8 floors AGL, on top of the stairwell. This site is entirely solar-powered, with no utility power access.
