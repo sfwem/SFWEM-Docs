@@ -23,7 +23,7 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
 | Base   | Ethernet B | 14’ Ethernet Cable     |[BUY](https://www.monoprice.com/product?p_id=29474)| BUY | BUY |
 | Base   | Terminal Conn. | Crimp on female connector    |[BUY](https://www.acehardware.com/departments/lighting-and-electrical/boxes-fittings-and-conduit/lugs/33648) | BUY | BUY |
 | Base   | 3M HB Tape | High bond, two sided tape     |[BUY](https://www.acehardware.com/departments/home-and-decor/office-supplies/tape/9039587) | BUY | BUY |
-| Base   | Charger | NOCO GENIUS1, 1-Amp Fully-Automatic Smart Charger |[BUY](NOCO GENIUS1, 1-Amp Fully-Automatic Smart Charger) | BUY |
+| Base   | Charger | NOCO GENIUS1, 1-Amp Fully-Automatic Smart Charger |[BUY](NOCO GENIUS1 1-Amp Fully-Automatic Charger) | BUY |
 | Option | Camera | Ubiquiti G3 PoE Video Camera     |[BUY](https://www.amazon.com/dp/B07D6MHK7S/ref=cm_sw_r_cp_api_i_71npEbRFM2MP3)| BUY | BUY |
 | Option | Phone | Cisco SPA 525G2    |[BUY](https://www.tritondatacomonline.com/products/cisco-spa-525g2-wireless-small-business-ip-phone-spa525g2?variant=3775636868&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=EAIaIQobChMIjfORiLfU5wIVE7vsCh194gP4EAQYASABEgIYN_D_BwE)| BUY | BUY |
 | Option | Phone PWR Adaptor | 5V USB Pwr Cable Cisco SPA525G2 |[BUY](https://www.amazon.com/MyVolts-Power-Cable-Compatible-SPA525G2/dp/B00GC0T3LE) | BUY | BUY |
