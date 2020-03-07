@@ -23,7 +23,8 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
 | Base   | Ethernet B | 14’ Ethernet Cable     |[BUY](https://www.monoprice.com/product?p_id=29474)| BUY | BUY |
 | Base   | Terminal Conn. | Crimp on female connector    |[BUY](https://www.acehardware.com/departments/lighting-and-electrical/boxes-fittings-and-conduit/lugs/33648) | BUY | BUY |
 | Base   | 3M HB Tape | High bond, two sided tape     |[BUY](https://www.acehardware.com/departments/home-and-decor/office-supplies/tape/9039587) | BUY | BUY |
-| Base   | Charger | NOCO GENIUS1 1-Amp, Fully-Automatic Smart Charger |[BUY](https://www.amazon.com/NOCO-GENIUS1-Fully-Automatic-Temperature-Compensation/dp/B07W46BX31/ref=sr_1_3?keywords=NOCO+GENIUS1+1-Amp+Fully-Automatic+Charger&qid=1583393690&sr=8-3) | BUY |
+| Base   | Charger | NOCO GENIUS1, 1-Amp Fully-Automatic Smart Charger |[BUY](NOCO GENIUS1, 1-Amp Fully-Automatic Smart Charger) | BUY |
+| Option | Quick Connect | NOCO GC015 X-Connect M10 Eyelet Battery Indicator Accessory |[BUY](https://www.amazon.com/gp/product/B009MI9JMG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)| BUY | BUY |
 | Option | Camera | Ubiquiti G3 PoE Video Camera     |[BUY](https://www.amazon.com/dp/B07D6MHK7S/ref=cm_sw_r_cp_api_i_71npEbRFM2MP3)| BUY | BUY |
 | Option | Phone | Cisco SPA 525G2    |[BUY](https://www.tritondatacomonline.com/products/cisco-spa-525g2-wireless-small-business-ip-phone-spa525g2?variant=3775636868&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=EAIaIQobChMIjfORiLfU5wIVE7vsCh194gP4EAQYASABEgIYN_D_BwE)| BUY | BUY |
 | Option | Phone PWR Adaptor | 5V USB Pwr Cable Cisco SPA525G2 |[BUY](https://www.amazon.com/MyVolts-Power-Cable-Compatible-SPA525G2/dp/B00GC0T3LE) | BUY | BUY |
@@ -37,7 +38,9 @@ Items above listed as "Option" are optional components to add features to the ba
 PC w/ Ethernet<BR>
 Software/Firmware<BR>
 Screwdriver<BR>
-Zip ties/Velcro<BR>
+Velcro+Screw<BR>
+Zip ties<BR>
+Rubbing Alcohol<BR>
 
 
 # Assembly
@@ -51,3 +54,4 @@ Instructions for assembling will appear here.<BR>
 
 Here we will link to a video on flashing the M5, plus instructions on how to configure the AirGATEWAY
 
+v1.0 Last Updated: 06-03-2020
