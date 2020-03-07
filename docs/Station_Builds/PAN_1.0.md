@@ -7,8 +7,8 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
 •	This is not an endorsement of specific brands or resellers. It is provided for your convenience.<br>
 •	If you have your own substitutions, tripod, power supply, what ever your imagination brings, please feel free to customize. These components are known to work allowing easy support through standardization.<br>
 
-[Add a Camera](PAN_Camera.md)<BR>
-[Add a Cisco SPA ](PAN_Cisco_Phone_SPA_525G2.md)<BR>
+[Add a Camera to your PAN](PAN_Camera.md)<BR>
+[Add a Cisco SPA to your PAN](PAN_Cisco_Phone_SPA_525G2.md)<BR>
 
 # Bill of Materials
 
