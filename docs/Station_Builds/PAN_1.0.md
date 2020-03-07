@@ -53,10 +53,10 @@ Instructions for assembling will appear here.<BR>
 
 ## Voltage Converter Install
 
-1. If your rectifier has it's pinout described on the bottom, use a Sharpie to transcribe the pinout to the side of the rectifier where the wires exit the rectifier. See FIG 01.
-2. Apply some rubing alcohol to a ball of cotton, and wype the bottom of the rectifier and the area of the case where the rectifier will be installed.
-3. Apply a piece of two sided foam tape to back of rectifier. See FIG 02.
-4. Remove liner from two sided tape, then afix rectifier to case as illustrated. See FIG 03.
+1. If your voltage converter has it's pinout described on the bottom, use a Sharpie to transcribe the pinout to the side of the converter where the wires exit the rectifier. See FIG 01.
+2. Apply some rubing alcohol to a ball of cotton, and wype the bottom of the converter and the area of the case where the converter will be installed.
+3. Apply a piece of two sided foam tape to back of converter. See FIG 02.
+4. Remove liner from two sided tape, then afix converter to case as illustrated. See FIG 03.
 
 ## POE Injector Install
 
