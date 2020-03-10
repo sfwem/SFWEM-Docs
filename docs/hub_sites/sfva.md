@@ -43,23 +43,23 @@ The following nodes are mounted on the roof of the building.
 
 ### [W6PW-SFVA-5G-SECTOR](http://W6PW-SFVA-5G-SECTOR.local.mesh)
 
-* Ubiquiti Rocket M5 XW.
-* MikroTik xxx.
-* Channel 179 (5. GHz)
+* [Ubiquiti Rocket M5 XW](https://www.ui.com/airmax/rocketm/).
+* [MikroTik mAND 19s](https://mikrotik.com/product/MTAS-5G-19D120) 19 dBi 120 Degree beamwidth antenna.
+* Channel 179 (5.895 GHz)
 * 24 VDC PoE from roof-mounted NanoSwitch.
 
 ### [W6PW-SFVA-5G-SECTOR-171](http://W6PW-SFVA-5G-SECTOR-171.local.mesh)
 
-* Ubiquiti Rocket M5.
-* Ubiquiti
-* Channel 171 (5. GHz)
+* [Ubiquiti Rocket M5](https://www.ui.com/airmax/rocketm/).
+* [Ubiquiti AM-5G17-90](https://www.ui.com/airmax/airmax-sector-antenna/) 17 dBi 90 Degree beamwidth antenna.
+* Channel 171 (5.855 GHz)
 * 24 VDC PoE from on-site UPS AC Power.
 
 ### [W6PW-SFVA-2G-SECTOR](http://W6PW-SFVA-2G-SECTOR.local.mesh)
 
-* Ubiquiti Rocket M2 XM.
-* Ubiquiti xxx.
-* Channel -2 (2. GHz)
+* [Ubiquiti Rocket M2 Xm](https://www.ui.com/airmax/rocketm/).
+* [Ubiquiti AM-2G15-120](https://www.ui.com/airmax/airmax-sector-antenna/) 15 dBi 120 Degree beamwidth antenna.
+* Channel -2 (2.397 GHz)
 * 24 VDC PoE from roof-mounted NanoSwitch.
 
 ## Repeater Closet
