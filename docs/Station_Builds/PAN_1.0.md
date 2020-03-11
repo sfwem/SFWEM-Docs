@@ -64,7 +64,8 @@ Instructions for assembling will appear here.<BR>
 2. Apply some rubbing alcohol to a ball of cotton, and wipe the bottom of the rectifier and the area of the case where the rectifier will be installed.
 3. Apply a piece of two sided foam tape to back of POE Injector. See FIG 05.
 4. Remove liner from two sided tape, then affix POE Injector to case as illustrated. See FIG 06.
-5. Connect the 24v wires from the rectifier into the appropriate screw down connector on the POE Injector.
+5. Connect the 24v wires from the rectifier into the appropriate screw down connector on the POE Injector.<BR>
+  <I>PRO TIP: When connecting the feed wires, insert the wires with a little twist to encourage a slight curl to the wires.</I>
 
 ### AirGATEWAY Install
 
