@@ -81,6 +81,10 @@ Instructions for assembling will appear here.<BR>
 
 # Flashing and AirGateway Setup
 
+### M5 Flash with ARDEN Firmware
+
+More to come.
+
 ### AirGATEWAY Set-up
 
 1. Follow instructions included with AirGATEWAY, to connect to it's web interface.
