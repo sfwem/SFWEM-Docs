@@ -51,28 +51,28 @@ Rubbing Alcohol<BR>
 
 Instructions for assembling will appear here.<BR>
 
-## Voltage Converter Install
+### Voltage Converter Install
 
 1. If your voltage converter has it's pinout described on the bottom, use a Sharpie to transcribe the pinout to the side of the converter where the wires exit the rectifier. See FIG 01.
-2. Apply some rubing alcohol to a ball of cotton, and wype the bottom of the converter and the area of the case where the converter will be installed.
+2. Apply some rubbing alcohol to a ball of cotton, and wipe the bottom of the converter and the area of the case where the converter will be installed.
 3. Apply a piece of two sided foam tape to back of converter. See FIG 02.
-4. Remove liner from two sided tape, then afix converter to case as illustrated. See FIG 03.
+4. Remove liner from two sided tape, then affix converter to case as illustrated. See FIG 03.
 
-## POE Injector Install
+### POE Injector Install
 
 1. With a utility knife, cutting away from yourself, remove the eyelets from the POE Injector. See FIG 04.
-2. Apply some rubing alcohol to a ball of cotton, and wype the bottom of the rectifier and the area of the case where the rectifier will be installed.
+2. Apply some rubbing alcohol to a ball of cotton, and wipe the bottom of the rectifier and the area of the case where the rectifier will be installed.
 3. Apply a piece of two sided foam tape to back of POE Injector. See FIG 05.
-4. Remove liner from two sided tape, then afix POE Injector to case as illustrated. See FIG 06.
+4. Remove liner from two sided tape, then affix POE Injector to case as illustrated. See FIG 06.
 5. Connect the 24v wires from the rectifier into the appropriate screw down connector on the POE Injector.
 
-## AirGATEWAY Install
+### AirGATEWAY Install
 
 1. Remove rubber outer protective case. See FIG 07.
-2. Apply some rubing alcohol to a ball of cotton, and wype the bottom of the rectifier and the area of the case where the rectifier will be installed.
+2. Apply some rubbing alcohol to a ball of cotton, and wipe the bottom of the rectifier and the area of the case where the rectifier will be installed.
 3. Review orientation and placement of AirGATEWAY, we will install this component with the POE IN very close to the POE Injector using the short ethernet cable.
 4. Apply a piece of two sided foam tape to back of rectifier. See FIG 08.
-4. Remove liner from two sided tape, then afix rectifier to case as illustrated. See FIG 03.
+4. Remove liner from two sided tape, then affix rectifier to case as illustrated. See FIG 03.
 
 
 
@@ -81,6 +81,25 @@ Instructions for assembling will appear here.<BR>
 
 # Flashing and AirGateway Setup
 
+### AirGATEWAY Set-up
+
+1. Follow instructions included with AirGATEWAY, to connect to it's web interface.
+2. Key Step: Disable the airCRM Business Operations Platform Provisioning Mode by pressing the "Disable..." button.
+3. In the confirmation pop-up dialogue box, press the button to confirm the change.
+4. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin interface again.
+5. Go to the system tab and change:
+  -Device name (suggestion: CALL-PANxPPPP-M5; where call is your call sign, replace the PPPP with the phone extension to be hosted at the PAN, followed by the device type identifier.)
+  -Administrator Username
+  -Old password
+  -New password
+6. Click the "Change" button.
+7. Click the "Apply" button.
+8. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin interface again.
+9. Go to the Wireless tab and change the SSID (suggestion: same as device name from above.)
+10. Click the "Change" button.
+11. Click the "Apply" button.
+12. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin using the new SSID.
+
 Here we will link to a video on flashing the M5, plus instructions on how to configure the AirGATEWAY
 
-v1.0 Last Updated: 06-03-2020
+v1.0 Last Updated: 10-03-2020
