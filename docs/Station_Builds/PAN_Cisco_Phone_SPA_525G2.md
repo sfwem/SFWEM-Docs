@@ -15,4 +15,9 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
 | Option | Phone PWR Adaptor | 5V USB Pwr Cable Cisco SPA525G2 |[BUY](https://www.amazon.com/MyVolts-Power-Cable-Compatible-SPA525G2/dp/B00GC0T3LE) | BUY | BUY |
 | Option | Phone Battery | USB Battery Pack | BUY | BUY | BUY |
 
+# Assembly
+
+# SPA 525G2 Configuration
+
+
 v1.0 Last Updated: 07-03-2020
