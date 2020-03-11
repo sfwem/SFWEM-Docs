@@ -73,7 +73,8 @@ Instructions for assembling will appear here.<BR>
 2. Apply some rubbing alcohol to a ball of cotton, and wipe the bottom of the rectifier and the area of the case where the rectifier will be installed.
 3. Review orientation and placement of AirGATEWAY, we will install this component with the POE IN very close to the POE Injector using the short ethernet cable.
 4. Apply a piece of two sided foam tape to back of rectifier. See FIG 08.
-4. Remove liner from two sided tape, then affix rectifier to case as illustrated. See FIG 03.
+5. Remove liner from two sided tape, then affix rectifier to case as illustrated. See FIG 03.
+6. Modify the short ethernet cable by carefully cutting the articulated stress relief plastic taking extra care to not damage the cable. On the cable used for this example, it was two small cuts. We did not make additional cuts to remove the unneeded material, you can if you want.
 
 
 
@@ -84,7 +85,7 @@ Instructions for assembling will appear here.<BR>
 
 ### M5 Flash with ARDEN Firmware
 
-More to come.
+More to come. Here we will link to a video on flashing the M5.
 
 ### AirGATEWAY Set-up
 
@@ -105,6 +106,6 @@ More to come.
 11. Click the "Apply" button.
 12. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin using the new SSID.
 
-Here we will link to a video on flashing the M5, plus instructions on how to configure the AirGATEWAY
+Here we will link to a video on flashing the M5
 
 v1.0 Last Updated: 10-03-2020
