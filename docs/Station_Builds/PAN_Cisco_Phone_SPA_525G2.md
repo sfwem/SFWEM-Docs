@@ -22,7 +22,7 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
 4. Connect the other end of the ethernet cable to the LAN port on the AirGATEWAY of your PAN.
 
 # SPA 525G2 Configuration
-1. After the SPA 525G has completed the boot process, follow [these instructions](https://www.cisco.com/c/en/us/support/docs/smb/unified-communications/cisco-small-business-spa500-series-ip-phones/smb2083-determine-ip-address-on-spa525g-and-spa525g2-ip-phones.html) to get the IP address of the SPA 525G.
+1. After the SPA 525G has completed the boot process, follow [these instructions](https://www.cisco.com/c/en/us/support/docs/smb/unified-communications/cisco-small-business-spa500-series-ip-phones/smb2083-determine-ip-address-on-spa525g-and-spa525g2-ip-phones.html){:target="_blank"} to get the IP address of the SPA 525G.
 2. Using a computer, connect to the wireless network of your PAN.
 3. Once connected to your PAN, launch your web browser.
 4. Key in the IP address from Assembly instruction #4 into the URL line of your web browser. 
