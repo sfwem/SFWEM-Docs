@@ -2,7 +2,7 @@
 title: Configure a Cisco SPA 525G for use with a Portable Access Node
 ---
 # Introduction
-Welcome, and thank you for your interest in building a SFWEM Portable Access Node (PAN). Please note:<br>
+Welcome, and thank you for your interest in extending your SFWEM Portable Access Node (PAN) to include an IP phone. Please note:<br>
 •	This is a living document, and subject to improvement.<br>
 •	This is not an endorsement of specific brands or resellers. It is provided for your convenience.<br>
 •	If you have your own substitutions, tripod, power supply, what ever your imagination brings, please feel free to customize. These components are known to work allowing easy support through standardization.<br>
@@ -35,5 +35,6 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
    •	Audio Codec: Preferred Codec: G729A<br>
    •	Audio Codec: Second Preferred Codec: G711A<br>
 7. Wi-fi set-up to come. 
+
 
 v1.0 Last Updated: 24-03-2020
