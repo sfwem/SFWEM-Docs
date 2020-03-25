@@ -34,6 +34,6 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
    •	Subscriber Information: Password: <I>Your assigned extension password</I><br>
    •	Audio Codec: Preferred Codec: G729A<br>
    •	Audio Codec: Second Preferred Codec: G711A<br>
-7. In the 
+7. Wi-fi set-up to come. 
 
 v1.0 Last Updated: 24-03-2020
