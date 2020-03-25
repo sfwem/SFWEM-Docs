@@ -28,8 +28,12 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
 4. Key in the IP address from Assembly instruction #4 into the URL line of your web browser.
 5. Once the phone's web based control interface, click on the "EXT 1" tab.
 6. Enter these details<br>
-   •	Proxy and Registration:, Proxy: orion-server.local.mesh
-   •	Display Name: <I>Your assigned extension number</I>
+   •	Proxy and Registration: Proxy: orion-server.local.mesh<br>
+   •	Subscriber Information: Display Name: <I>Your assigned extension number</I><br>
+   •	Subscriber Information: User ID: <I>Your assigned extension number</I><br>
+   •	Subscriber Information: Password: <I>Your assigned extension password</I><br>
+   •	Audio Codec: Preferred Codec: G729A<br>
+   •	Audio Codec: Second Preferred Codec: G711A<br>
 7. In the 
 
 v1.0 Last Updated: 24-03-2020
