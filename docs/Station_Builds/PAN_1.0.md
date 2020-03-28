@@ -106,6 +106,5 @@ More to come. Here we will link to a video on flashing the M5.
 11. Click the "Apply" button.
 12. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin using the new SSID.
 
-Here we will link to a video on flashing the M5
 
 v1.0 Last Updated: 27-03-2020
