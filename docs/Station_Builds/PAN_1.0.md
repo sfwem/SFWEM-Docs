@@ -49,7 +49,8 @@ Rubbing Alcohol<BR>
 
 # Assembly
 
-Instructions for assembling will appear here.<BR>
+![screenshot](PAN_v01.jpg)<BR>
+*Weather Resistant PAN case open showing internals.*
 
 ### Voltage Converter Install
 
@@ -77,9 +78,6 @@ Instructions for assembling will appear here.<BR>
 6. Modify the short ethernet cable by carefully cutting the articulated stress relief plastic taking extra care to not damage the cable. On the cable used for this example, it was two small cuts. We did not make additional cuts to remove the unneeded material, you can if you want.
 
 
-
-![screenshot](PAN_v01.jpg)<BR>
-*Weather Resistant PAN case open showing internals.*
 
 # Flashing and AirGateway Setup
 
