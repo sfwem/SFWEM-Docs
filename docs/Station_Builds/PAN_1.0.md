@@ -28,7 +28,7 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
 | Base   | 3M HB Tape | High bond, two sided tape     |[BUY](https://www.acehardware.com/departments/home-and-decor/office-supplies/tape/9039587) | BUY | BUY |
 | Base   | Charger | NOCO GENIUS1, 1-Amp Fully-Automatic Smart Charger |[BUY](https://www.amazon.com/gp/product/B07W46BX31/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) | BUY |
 | Option | Quick Connect | NOCO GC015 X-Connect M10 Eyelet Battery Indicator Accessory |[BUY](https://www.amazon.com/gp/product/B009MI9JMG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)| BUY | BUY |
-
+| Option | Quick Connect | Custom Powerpole made to order | [BUY](http://www.westmountainradio.com/custom_cable.php) | BUY | BUY |
 
 
 
