@@ -8,7 +8,7 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
 •	If you have your own substitutions, tripod, power supply, what ever your imagination brings, please feel free to customize. These components are known to work allowing easy support through standardization.<br>
 
 [Add a Camera to your PAN](PAN_Camera.md)<BR>
-[Add a Cisco SPA to your PAN](PAN_Cisco_Phone_SPA_525G2.md)<BR>
+[Add a Cisco SPA 525G to your PAN](PAN_Cisco_Phone_SPA_525G2.md)<BR>
 
 # Bill of Materials
 
@@ -108,4 +108,4 @@ More to come. Here we will link to a video on flashing the M5.
 
 Here we will link to a video on flashing the M5
 
-v1.0 Last Updated: 10-03-2020
+v1.0 Last Updated: 27-03-2020
