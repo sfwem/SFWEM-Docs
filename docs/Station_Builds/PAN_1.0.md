@@ -50,7 +50,7 @@ Rubbing Alcohol<BR>
 # Assembly
 
 ![screenshot](PAN_v01.jpg)<BR>
-*Weather Resistant PAN case open showing internals.*
+*Weather Resistant PAN case, open, showing internals.*
 
 ### Voltage Converter Install
 
