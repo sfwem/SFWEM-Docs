@@ -32,7 +32,6 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
 
 
 
-
 Items above listed as "Option" are optional components to add features to the base model of the PAN.
 
 
@@ -105,4 +104,4 @@ More to come. Here we will link to a video on flashing the M5.
 12. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin using the new SSID.
 
 
-v1.0 Last Updated: 27-03-2020
+v1.0 Last Updated: 30-03-2020
