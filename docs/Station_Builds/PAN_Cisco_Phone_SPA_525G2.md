@@ -34,7 +34,8 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
    •	Subscriber Information: Password: <I>Your assigned extension password</I><br>
    •	Audio Codec: Preferred Codec: <I>G729A</I><br>
    •	Audio Codec: Second Preferred Codec: <I>G711A</I><br>
-7. Wi-fi set-up to come. 
+7. Press the save button.
+8. Wi-fi set-up to come. 
 
 
 v1.0 Last Updated: 29-03-2020
