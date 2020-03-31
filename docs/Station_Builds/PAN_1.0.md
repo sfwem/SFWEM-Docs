@@ -35,7 +35,6 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
 Items above listed as "Option" are optional components to add features to the base model of the PAN.<BR>
 PICT: Reference number for PICT below in "Assembly."<BR>
 
-
 # Additional Tools
 
 PC w/ Ethernet<BR>
@@ -49,7 +48,7 @@ Rubbing Alcohol<BR>
 
 # Assembly
 
-![screenshot](PAN_v01.jpg)<BR>
+![screenshot](PAN_01_B.jpg)<BR>
 *Weather Resistant PAN case, open, showing internals.*
 
 ### Voltage Converter Install
