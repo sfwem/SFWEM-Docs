@@ -38,4 +38,4 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 8. Wi-fi set-up to come. 
 
 
-v1.0 Last Updated: 29-03-2020
+v1.0 Last Updated: 30-03-2020
