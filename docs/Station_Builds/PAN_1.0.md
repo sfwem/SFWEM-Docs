@@ -18,21 +18,22 @@ Welcome, and thank you for your interest in building a SFWEM Portable Access Nod
 | Base   | Battery | U12-8F | B | [BUY](https://www.amazon.com/APC-Battery-Replacement-BE650G1-RBC17/dp/B0002QLDLC/ref=ac_session_sims_23_2/139-1729255-5161352?_encoding=UTF8&pd_rd_i=B0002QLDLC&pd_rd_r=bbc8bd7b-29ce-418a-bc0e-0a2eabab45bb&pd_rd_w=0NRNf&pd_rd_wg=KKqOX&pf_rd_p=77a86a8c-20b5-42ee-b876-2528db9dcaf2&pf_rd_r=PWAH6TQWMP7FHSVA3X6P&psc=1&refRID=PWAH6TQWMP7FHSVA3X6P) |BUY|BUY|
 | Base   | Tripod | Neewer Pro 9’ AluStudio Light Stands | - |[BUY](https://www.amazon.com/dp/B00UWDD0AW/ref=cm_sw_r_cp_api_i_FZnpEb2Q2FSBQ)|BUY|BUY|
 | Base   | Sandbags | Neewer 8 Pack Dual Handle Sandbag | - |[BUY](https://www.amazon.com/gp/product/B01HM8KS72/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)|BUY|BUY|
-| Base   | Wi-Fi Radio | Ubiquiti AirGATEWAY PRO      | D |[BUY](https://www.amazon.com/dp/B017B00ZCO/ref=cm_sw_r_cp_api_i_PXnpEb9NNP43R)|[BUY](https://www.adorama.com/ubagproins.html?gclid=EAIaIQobChMIgJjb9t6C6AIVF9tkCh0EqgVQEAkYAiABEgIcbPD_BwE&utm_source=adl-gbase)| BUY |
-| Base   | Voltage Converter | DC 12V Step Up to 24V 72W     | E |[BUY](https://www.amazon.com/dp/B07XBWHR56?ref=ppx_pop_mob_ap_share) | BUY | BUY |
-| Base   | Case | 9X6X3 Weatherproof Enclosure      | F |[BUY](https://www.amazon.com/dp/B07FY224LW/ref=cm_sw_r_cp_api_i_DVnpEbDAZEAK8) | BUY | BUY |
-| Base   | POE Injector |  POE Injector     | G |[BUY](https://www.amazon.com/dp/B005HIS408/ref=cm_sw_r_cp_api_i_20npEb9STFQNE)| BUY | BUY |
-| Base   | Ethernet A | 6” Ethernet Cable     | H |[BUY](https://www.monoprice.com/product?p_id=29474)| BUY | BUY |
-| Base   | Ethernet B | 14’ Ethernet Cable     | I |[BUY](https://www.monoprice.com/product?p_id=29474)| BUY | BUY |
-| Base   | Terminal Conn. | Crimp on female connector    | J |[BUY](https://www.acehardware.com/departments/lighting-and-electrical/boxes-fittings-and-conduit/lugs/33648) | BUY | BUY |
-| Base   | 3M HB Tape | High bond, two sided tape     |[BUY](https://www.acehardware.com/departments/home-and-decor/office-supplies/tape/9039587) | BUY | BUY |
+| Base   | Wi-Fi Radio | Ubiquiti AirGATEWAY PRO      | C |[BUY](https://www.amazon.com/dp/B017B00ZCO/ref=cm_sw_r_cp_api_i_PXnpEb9NNP43R)|[BUY](https://www.adorama.com/ubagproins.html?gclid=EAIaIQobChMIgJjb9t6C6AIVF9tkCh0EqgVQEAkYAiABEgIcbPD_BwE&utm_source=adl-gbase)| BUY |
+| Base   | Voltage Converter | DC 12V Step Up to 24V 72W     | D |[BUY](https://www.amazon.com/dp/B07XBWHR56?ref=ppx_pop_mob_ap_share) | BUY | BUY |
+| Base   | Case | 9X6X3 Weatherproof Enclosure      | E |[BUY](https://www.amazon.com/dp/B07FY224LW/ref=cm_sw_r_cp_api_i_DVnpEbDAZEAK8) | BUY | BUY |
+| Base   | POE Injector |  POE Injector     | F |[BUY](https://www.amazon.com/dp/B005HIS408/ref=cm_sw_r_cp_api_i_20npEb9STFQNE)| BUY | BUY |
+| Base   | Ethernet A | 6” Ethernet Cable     | G |[BUY](https://www.monoprice.com/product?p_id=29474)| BUY | BUY |
+| Base   | Ethernet B | 14’ Ethernet Cable     | H |[BUY](https://www.monoprice.com/product?p_id=29474)| BUY | BUY |
+| Base   | Terminal Conn. | Crimp on female connector    | I |[BUY](https://www.acehardware.com/departments/lighting-and-electrical/boxes-fittings-and-conduit/lugs/33648) | BUY | BUY |
+| Base   | 3M HB Tape | High bond, two sided tape     | - |[BUY](https://www.acehardware.com/departments/home-and-decor/office-supplies/tape/9039587) | BUY |
 | Base   | Charger | NOCO GENIUS1, 1-Amp Fully-Automatic Smart Charger | - |[BUY](https://www.amazon.com/gp/product/B07W46BX31/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) | BUY |
-| Option | Quick Connect | NOCO GC015 X-Connect M10 Eyelet Battery Indicator Accessory | L |[BUY](https://www.amazon.com/gp/product/B009MI9JMG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)| BUY | BUY |
+| Option | Quick Connect | NOCO GC015 X-Connect M10 Eyelet Battery Indicator Accessory | J |[BUY](https://www.amazon.com/gp/product/B009MI9JMG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)| BUY | BUY |
 | Option | Quick Connect | Custom Powerpole made to order | - |[BUY](http://www.westmountainradio.com/custom_cable.php) | BUY | BUY |
 
 
 
-Items above listed as "Option" are optional components to add features to the base model of the PAN.
+Items above listed as "Option" are optional components to add features to the base model of the PAN.<BR>
+PICT: Reference number for PICT below in "Assembly."<BR>
 
 
 # Additional Tools
