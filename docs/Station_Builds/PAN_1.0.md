@@ -49,7 +49,7 @@ Rubbing Alcohol<BR>
 # Assembly
 
 ![screenshot](PAN_01_B.jpg)<BR>
-*Weather Resistant PAN case, open, showing internals.*
+*Weather Resistant PAN case, open, showing internals. Please use letters to reference item from Bill of Materials above.*
 
 ### Voltage Converter Install
 
