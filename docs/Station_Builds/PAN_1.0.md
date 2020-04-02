@@ -1,5 +1,5 @@
 ---
-title: Portable Access Node
+Title: Portable Access Node
 ---
 # Introduction
 Welcome, and thank you for your interest in building a SFWEM Portable Access Node (PAN). Please note:<br>
@@ -53,7 +53,7 @@ Rubbing Alcohol<BR>
 
 ### Voltage Converter Install
 
-1. If your voltage converter has it's pinout described on the bottom, use a Sharpie to transcribe the pinout to the side of the converter where the wires exit the rectifier. See FIG 01.
+1. If your voltage converter has it's pinout described on its smooth, bottom surface, use a Sharpie to transcribe the pinout to the side of the converter where the wires exit the rectifier. See FIG 01.
 2. Apply some rubbing alcohol to a ball of cotton, and wipe the bottom of the converter and the area of the case where the converter will be installed.
 3. Apply a piece of two sided foam tape to back of converter. See FIG 02.
 4. Remove liner from two sided tape, then affix converter to case as illustrated. See FIG 03.
@@ -80,9 +80,11 @@ Rubbing Alcohol<BR>
 
 # Flashing and AirGateway Setup
 
+
 ### M5 Flash with ARDEN Firmware
 
-More to come. Here we will link to a video on flashing the M5.
+Read the official Arden instructons here:
+https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmware.html
 
 ### AirGATEWAY Set-up
 
@@ -104,4 +106,8 @@ More to come. Here we will link to a video on flashing the M5.
 12. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin using the new SSID.
 
 
-v1.0 Last Updated: 30-03-2020
+<BR>
+<BR>
+<BR>
+
+v1.0 Last Updated: 31-03-2020
