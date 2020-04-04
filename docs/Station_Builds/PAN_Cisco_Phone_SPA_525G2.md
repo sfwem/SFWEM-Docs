@@ -27,16 +27,16 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 2. Using a computer, connect to the wireless network of your PAN.
 3. Once connected to your PAN, launch your web browser.
 4. Key in the IP address from Configuration instruction #1 into the URL line of your web browser.
-5. Once the phone's web based control interface, in the header with links and buttons, find "Admin Login" and click the link.
-6. click on the "EXT 1" tab.
-6. Enter these details<br>
+5. Once the phone's web based control interface loads, in the header with links and buttons, find "Admin Login" and click the link.
+6. Click on the "EXT 1" tab.
+7. Enter these details<br>
    •	Proxy and Registration: Proxy: orion-server.local.mesh<br>
    •	Subscriber Information: Display Name: <I>Your assigned extension number</I><br>
    •	Subscriber Information: User ID: <I>Your assigned extension number</I><br>
    •	Subscriber Information: Password: <I>Your assigned extension password</I><br>
    •	Audio Codec: Preferred Codec: <I>G729A</I><br>
    •	Audio Codec: Second Preferred Codec: <I>G711A</I><br>
-7. Press the "Submit All Changes" button at the bottom of the page.
+8. Press the "Submit All Changes" button at the bottom of the page.
 
 ## Wi-Fi Config
 1. Presuming you are still connected to your SPA 525G's web interface, find the "Wi-Fi" tab and click on it.
@@ -50,4 +50,4 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 9. Reconnect the power supply to the phone, and it should join the wi-fi network of your AirGATEWAY.
 10. Make a test phone call.
 
-v1.0 Last Updated: 03-04-2020
+v1.1 Last Updated: 03-04-2020
