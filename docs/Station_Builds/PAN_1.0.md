@@ -83,7 +83,7 @@ Rubbing Alcohol<BR>
 
 ### M5 Flash with ARDEN Firmware
 
-Read the official Arden instructons here:
+Read the official Arden instructions here:
 https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmware.html
 
 ### AirGATEWAY Set-up
@@ -110,4 +110,4 @@ https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmwa
 <BR>
 <BR>
 
-v1.0 Last Updated: 31-03-2020
+v1.0 Last Updated: 04-04-2020

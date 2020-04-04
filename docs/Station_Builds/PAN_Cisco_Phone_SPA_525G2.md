@@ -45,9 +45,9 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 4. In the next pop-up window, give the profile a name in the Wi-Fi Profile Name field. (Pro Tip: enter your AirGATEWAY SSID into into this field.) When the details are correct, press the "Submit All Changes" button.
 5. You should have now been returned to the Wi-Fi menu, be sure the enable check box has a green check mark. If not, click the empty checkbox to toggle it to being checked.
 6. Click the "Submit All Changes" button.
-7. Disconect the power supply to the phone to power it off.
-8. Disconect the ethernet cable you connected in "Assembly" #3.
+7. Disconnect the power supply to the phone to power it off.
+8. Disconnect the ethernet cable you connected in "Assembly" #3.
 9. Reconnect the power supply to the phone, and it should join the wi-fi network of your AirGATEWAY.
 10. Make a test phone call.
 
-v1.1 Last Updated: 03-04-2020
+v1.1 Last Updated: 04-04-2020
