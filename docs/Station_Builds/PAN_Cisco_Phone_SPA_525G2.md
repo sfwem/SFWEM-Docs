@@ -37,7 +37,7 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 3. Once connected to your PAN, launch your web browser.
 4. Key in the IP address from Configuration instruction #1 into the URL line of your web browser.
 5. Once the phone's web based control interface loads, in the header with links and buttons, find "Admin Login" and click the link.<br>
-![screenshot](SPA525G_Admin_Button.png)<br>
+[screenshot](SPA525G_Admin_Button.png)<br>
 6. Click on the "EXT 1" tab.
 7. Enter these details<br>
    •	Proxy and Registration: Proxy: orion-server.local.mesh<br>
@@ -46,7 +46,7 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
    •	Subscriber Information: Password: <I>Your assigned extension password</I><br>
    •	Audio Codec: Preferred Codec: <I>G729A</I><br>
    •	Audio Codec: Second Preferred Codec: <I>G711A</I><br>
-   ![screenshot](SPA525G_Instruction_7.png)<br>
+[screenshot](SPA525G_Instruction_7.png)<br>
 8. Press the "Submit All Changes" button at the bottom of the page.
 <br>
 <br>
