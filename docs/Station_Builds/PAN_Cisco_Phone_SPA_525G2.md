@@ -54,7 +54,9 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 <br>
 <br>
 <br>
+
 ## Wi-Fi Config
+
 1. Presuming you are still connected to your SPA 525G's web interface, find the "Wi-Fi" tab and click on it.
 2. Find the "site survey" button and click on it.
 3. A pop-up window will appear, find the SSID you gave to your AirGATEWAY. Then look to the right of the SSID and click the folder with a green plus symbol.
