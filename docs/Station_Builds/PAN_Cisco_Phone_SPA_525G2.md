@@ -31,7 +31,9 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 
 # Configuration
 <br>
+
 ## Phone Config
+
 1. After the SPA 525G has completed the boot process, follow [these instructions](https://www.cisco.com/c/en/us/support/docs/smb/unified-communications/cisco-small-business-spa500-series-ip-phones/smb2083-determine-ip-address-on-spa525g-and-spa525g2-ip-phones.html) to get the IP address of the SPA 525G.<br>
 2. Using a computer, connect to the wireless network of your PAN.
 3. Once connected to your PAN, launch your web browser.
