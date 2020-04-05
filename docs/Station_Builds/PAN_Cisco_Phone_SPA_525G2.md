@@ -5,7 +5,7 @@ title: Configure a Cisco SPA 525G for use with a Portable Access Node
 Welcome, and thank you for your interest in extending your SFWEM Portable Access Node (PAN) to include an IP phone. Please note:<br>
 •	This is a living document, and subject to improvement.<br>
 •	This is not an endorsement of specific brands or resellers. It is provided for your convenience.<br>
-•	If you have your own substitutions, tripod, power supply, what ever your imagination brings, please feel free to customize. These components are known to work allowing easy support through standardization.<br>
+•	If you have your own substitutions, please feel free to customize. These components are known to work allowing easy support through standardization.<br>
 <br>
 <br>
 <br>
@@ -67,5 +67,8 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 8. Disconnect the ethernet cable you connected in "Assembly" #3.
 9. Reconnect the power supply to the phone, and it should join the wi-fi network of your AirGATEWAY.
 10. Make a test phone call.
+<br>
+<br>
+<br>
 
 v1.1 Last Updated: 04-04-2020
