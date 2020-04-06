@@ -4,11 +4,13 @@ title: Band Plan with Map
 # Introduction
 The Band Plan for the SFWEM serving the greater Bay Area.
 
-## By Frequency<BR>
-171
-175
-177
-179
+## Map
+
+## By Frequency
+171: Cross Bay links<BR>
+175: Hercules, Pinole, Pleasant Hill, <BR>
+177: Oakland<BR>
+179: San Francisco, <BR>
 
 ## By Location
 
@@ -25,4 +27,4 @@ San Leandro: 177<BR>
 Treasure Island: 179<BR>
 
 
-v0.1 Last Updated: 05-04-2020
+v1.0 Last Updated: 05-04-2020
