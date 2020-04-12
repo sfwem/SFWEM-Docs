@@ -56,6 +56,7 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 <br>
 
 ## Wi-Fi Config
+<I>Please note, wi-fi use may degrade audio quality when compared to using a wired connection.</I>
 
 1. Presuming you are still connected to your SPA 525G's web interface, find the "Wi-Fi" tab and click on it.
 2. Find the "site survey" button and click on it.
