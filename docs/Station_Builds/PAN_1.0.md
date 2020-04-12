@@ -109,5 +109,6 @@ https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmwa
 <BR>
 <BR>
 <BR>
+SFWEM is a volunteer-led project.
 
-v1.0 Last Updated: 04-04-2020
+v1.0 Last Updated: 11-04-2020
