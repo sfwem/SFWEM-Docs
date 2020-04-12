@@ -71,4 +71,6 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 <br>
 <br>
 
-v1.1 Last Updated: 05-04-2020
+SFWEM is a volunteer-led project.
+
+v1.1 Last Updated: 11-04-2020
