@@ -2,7 +2,7 @@
 title: Band Plan with Map
 ---
 # Introduction
-The Band Plan for the SFWEM serving the greater Bay Area.
+The Band Plan for the SFWEM serving the greater Bay Area. Please note, this is a living document, and subject to improvement as we build it out.
 
 ## Map
 
