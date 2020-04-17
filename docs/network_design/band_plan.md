@@ -11,7 +11,7 @@ The Band Plan for the SFWEM serving the greater Bay Area. Please note, this is a
 ## By Frequency
 171: Cross Bay links<BR>
 175: Hercules, Pinole, Pleasant Hill, <BR>
-177: Oakland<BR>
+177: Oakland, Berkeley<BR>
 179: San Francisco, <BR>
 
 ## By Location
