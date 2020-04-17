@@ -5,7 +5,8 @@ title: Band Plan with Map
 The Band Plan for the SFWEM serving the greater Bay Area.
 
 ## Map
-Come back soon to see.
+
+![screenshot](SFWEM_Band_Map_0.0.png)<BR>
 
 ## By Frequency
 171: Cross Bay links<BR>
