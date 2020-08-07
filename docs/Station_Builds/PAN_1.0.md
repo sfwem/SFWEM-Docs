@@ -92,9 +92,11 @@ https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmwa
 2. Key Step: Disable the airCRM Business Operations Platform Provisioning Mode
     A: Click on the System Tab.
     B: Close to the bottom of the page find the "Provisioning Mode" setting, then click the "Disable..." button.
-    C: In the confirmation pop-up dialogue box, press the button to confirm the change.
-4. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin interface again.
-5. Go to the system tab and change:
+    C: In the confirmation pop-up dialogue box, press the "Yes, confirm" button to confirm the change.
+4. Wait about one min for the AirGATEWAY to reboot.
+5. Join a new wi-fi network on your computer, look for SSID "www.ubnt.com" and join.
+6. Connect to the AirGATEWAY web admin interface again, using Username: ubnt PW: ubnt
+7. Go to the system tab and change:
   -Device name (suggestion: CALL-PANxPPPP-M5; where call is your call sign, replace the PPPP with the phone extension to be hosted at the PAN, followed by the device type identifier.)
   -Administrator Username
   -Old password
@@ -113,4 +115,4 @@ https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmwa
 <BR>
 SFWEM is a volunteer-led project.
 
-v1.0 Last Updated: 11-04-2020
+v1.0 Last Updated: 07-06-2020
