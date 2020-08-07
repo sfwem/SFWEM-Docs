@@ -88,9 +88,11 @@ https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmwa
 
 ### AirGATEWAY Set-up
 
-1. Follow instructions included with AirGATEWAY, to connect to it's web interface.
-2. Key Step: Disable the airCRM Business Operations Platform Provisioning Mode by pressing the "Disable..." button.
-3. In the confirmation pop-up dialogue box, press the button to confirm the change.
+1. Follow instructions included with AirGATEWAY, to connect to it's web interface. (Username: ubnt PW: ubnt)
+2. Key Step: Disable the airCRM Business Operations Platform Provisioning Mode
+    A: Click on the System Tab.
+    B: Close to the bottom of the page find the "Provisioning Mode" setting, then click the "Disable..." button.
+    C: In the confirmation pop-up dialogue box, press the button to confirm the change.
 4. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin interface again.
 5. Go to the system tab and change:
   -Device name (suggestion: CALL-PANxPPPP-M5; where call is your call sign, replace the PPPP with the phone extension to be hosted at the PAN, followed by the device type identifier.)
