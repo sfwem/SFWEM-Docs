@@ -98,7 +98,8 @@ https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmwa
 5. Join a new wi-fi network on your computer, look for SSID "www.ubnt.com" and join.
 6. Connect to the AirGATEWAY web admin interface again, using Username: ubnt PW: ubnt
 7. Navigate to the tab: Wireless
-8. Change the SSID, suggestion: CALL-PANxPPPP-M5; where CALL is your call sign, PAN because this is a portable access note, the PPPP will be the phone extension to be hosted by the PAN, followed by M5 which is the device type identifier a Rocket M5 in this example)
+    A: Change the SSID, suggestion: CALL-PANxPPPP-M5; where CALL is your call sign, PAN because this is a portable access note, the PPPP will be the phone extension to be hosted by the PAN, followed by M5 which is the device type identifier a Rocket M5 in this example)
+    B: Add a password if desired, you may consider not adding one to make joining the network when deployed easier.
 
 
 
