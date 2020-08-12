@@ -105,7 +105,7 @@ https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmwa
     B: Add a password if desired, you may consider not adding one to make joining the network when deployed easier.
 ![screenshot](AirGateway_AirCRM-Confirm.png)<br>
 
-
+Rewrite Zone
 
 Go to the system tab and change:
     A: Device name (suggestion: CALL-PANxPPPP-M5; where call is your call sign, replace the PPPP with the phone extension to be hosted at the PAN, followed by the device type identifier.)
@@ -116,10 +116,6 @@ Go to the system tab and change:
 10: Wait about one min for the AirGATEWAY to reboot.
 11. Join the wi-fi network with SSID "www.ubnt.com" and join.
 12. Sign in the administrator username added in 7:B above, use the password: ubnt
-
-
-    Old password
-  -New password
 6. Click the "Change" button.
 7. Click the "Apply" button.
 8. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin interface again.
