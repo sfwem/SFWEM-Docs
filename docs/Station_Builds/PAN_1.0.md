@@ -89,7 +89,8 @@ https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmwa
 ### AirGATEWAY Set-up
 
 <I> These instructions were written using AirGateway Pro Firmware 1.1.12</I>
-1. Follow instructions included with AirGATEWAY, to connect to and log into it's web interface. (192.168.1.1 Username: ubnt PW: ubnt)
+1. Follow instructions included with AirGATEWAY, to connect to it's web interface. (192.168.1.1 Username: ubnt PW: ubnt) If this is your first time logging into this device, you will need to select a country, select a language, plus check the box to agree to their license agreement, finally press login.<BR>
+![screenshot](AirGateway_001.png)<BR>
 2. Key Step: Disable the "airCRM Business Operations Platform Provisioning Mode"<BR>
     A: Click on the System Tab.<BR>
     B: Close to the bottom of the page find the "Provisioning Mode" setting, then click the "Disable..." button.<BR>
