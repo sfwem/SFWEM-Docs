@@ -86,21 +86,24 @@ Rubbing Alcohol<BR>
 Read the official Arden instructions here:
 https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmware.html
 
-### AirGATEWAY Set-up
+### AirGATEWAY PRO Set-up
 
 <I> These instructions were written using AirGateway Pro Firmware 1.1.10. Firmware 1.1.11 and newer are not compatible with this configuration, please downgrade your firmware.</I>
-1. Follow instructions included with AirGATEWAY, to connect to it's web interface. (192.168.1.1 Username: ubnt PW: ubnt) If this is your first time logging into this device, you will need to select a country, select a language, plus check the box to agree to their license agreement, finally press login. <I>Be advised, you may need to configure your computer to "static IP" mode and assign it an ip address in range with the AirGATEWAY such as 192.168.1.100.</I><BR>
+1. Follow instructions included with AirGATEWAY PRO, to connect to it's web interface. (192.168.1.1 Username: ubnt PW: ubnt) If this is your first time logging into this device, you will need to select a country, select a language, plus check the box to agree to their license agreement, finally press login. <I>Be advised, you may need to configure your computer to "static IP" mode and assign it an ip address in range with the AirGATEWAY such as 192.168.1.100.</I><BR>
 ![screenshot](AirGateway_001.png)<BR>
 2. Key Step: Disable the "airCRM Business Operations Platform Provisioning Mode"<BR>
     A: Click on the System Tab.<BR>
     B: Close to the bottom of the page find the "Provisioning Mode" setting, then click the "Disable..." button.<BR>
+    ![screenshot](AirGateway_AirCRM_Disable.png)<br>
     C: A confirmation pop-up  box will appear, press the "Yes, confirm" button to confirm the Provisioning Mode change.<BR>
+![screenshot](AirGateway_AirCRM-Confirm.png)<br>
 4. Wait about one min for the AirGATEWAY to reboot.
 5. Join a new wi-fi network on your computer, look for SSID "www.ubnt.com" and join.
-6. Connect to the AirGATEWAY web admin interface again, using Username: ubnt PW: ubnt
+6. Connect to the AirGATEWAY web admin interface again at 192.168.1.1 using Username: ubnt PW: ubnt
 7. Navigate to the tab: Wireless
     A: Change the SSID, suggestion: CALL-PANxPPPP-M5; where CALL is your call sign, PAN because this is a portable access note, the PPPP will be the phone extension to be hosted by the PAN, followed by M5 which is the device type identifier a Rocket M5 in this example)
     B: Add a password if desired, you may consider not adding one to make joining the network when deployed easier.
+![screenshot](AirGateway_AirCRM-Confirm.png)<br>
 
 
 
@@ -112,7 +115,7 @@ Go to the system tab and change:
 9: CLick the "Apply"
 10: Wait about one min for the AirGATEWAY to reboot.
 11. Join the wi-fi network with SSID "www.ubnt.com" and join.
-12. Sign in the administratir username added in 7:B above, use the password: ubnt
+12. Sign in the administrator username added in 7:B above, use the password: ubnt
 
 
     Old password
