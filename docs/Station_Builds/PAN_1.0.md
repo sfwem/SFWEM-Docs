@@ -96,33 +96,32 @@ https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmwa
     B: Close to the bottom of the page find the "Provisioning Mode" setting, then click the "Disable..." button.<BR>
     ![screenshot](AirGateway_AirCRM_Disable.png)<br>
     C: A confirmation pop-up  box will appear, press the "Yes, confirm" button to confirm the Provisioning Mode change.<BR>
-![screenshot](AirGateway_AirCRM-Confirm.png)<br>
-4. Wait about one min for the AirGATEWAY to reboot.
-5. Join a new wi-fi network on your computer, look for SSID "www.ubnt.com" and join.
-6. Connect to the AirGATEWAY web admin interface again at 192.168.1.1 using Username: ubnt PW: ubnt
-7. Navigate to the tab: Wireless
-    A: Change the SSID, suggestion: CALL-PANxPPPP-M5; where CALL is your call sign, PAN because this is a portable access note, the PPPP will be the phone extension to be hosted by the PAN, followed by M5 which is the device type identifier a Rocket M5 in this example)
-    B: Add a password if desired, you may consider not adding one to make joining the network when deployed easier.
-![screenshot](AirGateway_AirCRM-Confirm.png)<br>
+    ![screenshot](AirGateway_AirCRM-Confirm.png)<br>
+4. Wait about one min for the AirGATEWAY to reboot.<BR>
+5. Join a new wi-fi network on your computer, look for SSID "www.ubnt.com" and join.<br>
+6. Connect to the AirGATEWAY web admin interface again at 192.168.1.1 using Username: ubnt PW: ubnt<br>
+7. Navigate to the tab: Wireless<BR>
+    A: Change the SSID, suggestion: CALL-PANxPPPP-M5; where CALL is your call sign, PAN because this is a portable access note, the PPPP will be the phone extension to be hosted by the PAN, followed by M5 which is the device type identifier a Rocket M5 in this example)<BR>
+    B: Add a password if desired, you may consider not adding one to make joining the network when deployed easier.<BR>
+    C: Click the "Change" button to save the changes.<BR>
+    D: Click the "Apply" button in the blue info bar at the top of the screen.<BR>
+    ![screenshot](AirGateway_SSID.png)<br>
+8. Go to the tab: System<BR>
+    A. Update the Device Name.<br>
+    B. Update the Time zone.<br>
+    C. In the System Accounts section, click the key icon to change the default administrator username field.<br>
+    D. Change the Administrator Username. We suggest your call sign.<br>
+    E. Enter the Current Password: ubnt<br>
+    F. Enter a new password in the two provided fields.<br>
+    G: Click the "Change" button to save the changes.<BR>
+    H: Click the "Apply" button in the blue info bar at the top of the screen.<BR>
+    ![screenshot](AirGATEWAY_System.png)<br>
+9. Navigate to the tab: Network<BR>
+    A: Change the Network Mode to "Bridge"<BR>
+    B: Click the "Change" button to save the changes.<BR>
+    C: Click the "Apply" button in the blue info bar at the top of the screen.<BR>
+    ![screenshot](AirGateway_Bridge.png)<br>
 
-Rewrite Zone
-
-Go to the system tab and change:
-    A: Device name (suggestion: CALL-PANxPPPP-M5; where call is your call sign, replace the PPPP with the phone extension to be hosted at the PAN, followed by the device type identifier.)
-    B: Administrator Username (suggestion: callsign)
-    C: Time zone 
-8. Click the "Change" button.
-9: CLick the "Apply"
-10: Wait about one min for the AirGATEWAY to reboot.
-11. Join the wi-fi network with SSID "www.ubnt.com" and join.
-12. Sign in the administrator username added in 7:B above, use the password: ubnt
-6. Click the "Change" button.
-7. Click the "Apply" button.
-8. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin interface again.
-9. Go to the Wireless tab and change the SSID (suggestion: same as device name from above.)
-10. Click the "Change" button.
-11. Click the "Apply" button.
-12. Wait about one min for the AirGATEWAY to reboot. Connect to the AirGATEWAY web admin using the new SSID.
 
 
 <BR>
@@ -130,4 +129,4 @@ Go to the system tab and change:
 <BR>
 SFWEM is a volunteer-led project.
 
-v1.0 Last Updated: 07-06-2020
+v2.0 Last Updated: 08-12-2020
