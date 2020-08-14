@@ -7,6 +7,8 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 •	This is not an endorsement of specific brands or resellers. It is provided for your convenience.<br>
 •	If you have your own substitutions, please feel free to customize. These components are known to work allowing easy support through standardization.<br>
 <br>
+[Add a Camera to your PAN](PAN_Camera.md)<BR>
+[Configure your PAN](PAN_1.0.md)<BR>
 <br>
 <br>
 # Bill of Materials
