@@ -14,7 +14,13 @@ Welcome, and thank you for your interest in extending your SFWEM Portable Access
 | Option | Camera | Ubiquiti G3 PoE Video Camera     |[BUY](https://www.amazon.com/dp/B07D6MHK7S/ref=cm_sw_r_cp_api_i_71npEbRFM2MP3)| BUY | BUY |
 <BR>
 <BR>
+# Configuration on Host Node
+
+# Configure Camera
+IP 192.168.1.20<BR>
+Username Password ubnt
+
 <BR>
 SFWEM is a volunteer-led project.
 
-v1.0 Last Updated: 11-04-2020
+v1.0 Last Updated: 08-14-2020
