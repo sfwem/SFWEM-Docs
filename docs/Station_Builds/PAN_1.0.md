@@ -89,11 +89,11 @@ https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmwa
 ### AirGATEWAY PRO Set-up
 
 <I> These instructions were written using AirGateway Pro Firmware 1.1.10. Firmware 1.1.11 and newer are not compatible with this configuration, please downgrade your firmware.</I>
-1. Follow instructions included with AirGATEWAY PRO, to connect to it's web interface. (192.168.1.1 Username: ubnt PW: ubnt) If this is your first time logging into this device, you will need to select a country, select a language, plus check the box to agree to their license agreement, finally press login. <I>Be advised, you may need to configure your computer to "static IP" mode and assign it an ip address in range with the AirGATEWAY such as 192.168.1.100.</I><BR>
+1. To connect to the AirGATEWAY PRO's web interface, follow instructions included in its package or the manufacturers [web site](https://dl.ubnt.com/guides/airgateway/airGateway_AG-PRO-INS_QSG.pdf). (192.168.1.1 Username: ubnt PW: ubnt) If this is your first time logging into this AirGATEWAY PRO, you will need to select a country, select a language, plus check the box to agree to their license agreement, finally press login. <I>Be advised, you may need to configure your computer to "static IP" mode and assign it an ip address in range with the AirGATEWAY such as 192.168.1.100.</I><BR>
 ![screenshot](AirGateway_001.png)<BR>
 2. Key Step: Disable the "airCRM Business Operations Platform Provisioning Mode"<BR>
     A: Click on the System Tab.<BR>
-    B: Close to the bottom of the page find the "Provisioning Mode" setting, then click the "Disable..." button.<BR>
+    B: In the lower left corner of the web control panel, find the "Provisioning Mode" setting, then click the "Disable..." button.<BR>
     ![screenshot](AirGateway_AirCRM_Disable.png)<br>
     C: A confirmation pop-up  box will appear, press the "Yes, confirm" button to confirm the Provisioning Mode change.<BR>
     ![screenshot](AirGateway_AirCRM-Confirm.png)<br>
@@ -129,4 +129,4 @@ https://arednmesh.readthedocs.io/en/latest/arednGettingStarted/installing_firmwa
 <BR>
 SFWEM is a volunteer-led project.
 
-v2.0 Last Updated: 08-12-2020
+v2.0 Last Updated: 08-28-2020
