@@ -20,7 +20,7 @@ Chris Adams, KJ6WEG
 
 ## ORCA Nodes
 
-The ORCA site currently (Jan 2021) has three external RF deveices, with potential to upgrade or add more soon. 
+The ORCA site currently (Jan 2021) has three Mesh RF deveices, with potential to upgrade or add more. 
 
 ### [KJ6WEG-OAK-ORCA-PBM5](http://kj6weg-oak-orca-pbm5.local.mesh)
 
@@ -47,12 +47,16 @@ The ORCA site currently (Jan 2021) has three external RF deveices, with potentia
 * Currently pointing Southwest towards Oakland.
 * This device is intended for providing mesh connections to users in the East Bay flats.
 
-### [KJ6WEG-OAK-ORCA-HAP](http://kj6weg-oak-orca-hap.local.mesh)
+### Wireless Wire
 
-* MikroTik Routerboard hAP ac lite
-* No Mesh RF. 
-* In the shack, for providing local mesh access, and soon for adding an internet connection.
-* Power (24v) provided by grid power.
+* MikroTik Wireless Wire
+* 60 GHz wireless link, acts like an RF ethernet cable
+* Does NOT run AREDN firmware
+* Provides a trunk link between the Griz/KPFA site and the ORCA site (~100m)
+* Connects to the mesh nodes through a Juniper Networks switch with VLANs configured
+* Allows mesh nodes at the two sites to have DTD links to eachother
+
+Note: The MikroTik hAP (KJ6WEG-OAK-ORCA-HAP) at the Griz site has been removed as it was not needed. 
 
 ***
 
@@ -84,11 +88,19 @@ The Griz site on the KPFA tower was installed on 2020-12-31, and currently has 2
 * In the shack, for providing local mesh access, and soon for adding an internet connection.
 * Power (24v) provided by grid power.
 
+### Wireless Wire
+
+* MikroTik Wireless Wire
+* 60 GHz wireless link, acts like an RF ethernet cable
+* Does NOT run AREDN firmware
+* Provides a trunk link between the ORCA site and the Griz/KPFA site (~100m)
+* Connects to the mesh nodes through a Juniper Networks switch with VLANs configured
+* Allows mesh nodes at the two sites to have DTD links to eachother
+
 ***
 
 ### Future
 
-* We are planning to test a 60 GHz Wireless Wire link (Part 15) between these two nearby sites, with a managed on each end to connect both the AREDN network and the internet between them. 
 * Planned additions include a high speed Part 15 link on the Griz/KPFA tower, for internet backhaul to the two nodes. 
 * We hope to upgrade some of the node hardware at these sites, and update some of the existing nodes with different aiming and/or channels. 
 * We are looking into he possibilities of using these sites to provide backbone links to Mount San Bruno, Mount Diabolo, the Penninsula, and Marin County. 
