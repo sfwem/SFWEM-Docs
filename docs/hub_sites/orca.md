@@ -47,22 +47,28 @@ The ORCA site currently (Jan 2021) has three Mesh RF deveices, with potential to
 * Currently pointing Southwest towards Oakland.
 * This device is intended for providing mesh connections to users in the East Bay flats.
 
+### [KJ6WEG-OAK-ORCA-HAP](http://kj6weg-oak-orca-hap.local.mesh)
+
+* MikroTik Routerboard hAP ac lite
+* No Mesh RF. 
+* In the shack, for providing local mesh access and device connections.
+* Power (24v) provided by grid power.
+
+
 ### Wireless Wire
 
 * MikroTik Wireless Wire
 * 60 GHz wireless link, acts like an RF ethernet cable
 * Does NOT run AREDN firmware
-* Provides a trunk link between the Griz/KPFA site and the ORCA site (~100m)
+* Provides a trunk link between the ORCA site and the Griz/KPFA site (~100m)
 * Connects to the mesh nodes through a Juniper Networks switch with VLANs configured
 * Allows mesh nodes at the two sites to have DTD links to eachother
-
-Note: The MikroTik hAP (KJ6WEG-OAK-ORCA-HAP) at the Griz site has been removed as it was not needed. 
 
 ***
 
 ## Griz Nodes
 
-The Griz site on the KPFA tower was installed on 2020-12-31, and currently has 2 external RF nodes, with plans for more. 
+The Griz site on the KPFA tower was installed on 2020-12-31, and currently has 2 mesh RF devices, with plans for more. 
 
 ### [KJ6WEG-OAK-Griz-PBM5](http://kj6weg-oak-griz-pbm5.local.mesh)
 
@@ -81,21 +87,16 @@ The Griz site on the KPFA tower was installed on 2020-12-31, and currently has 2
 * Currently pointing Southwest towards Oakland
 * This device is intended to provide data connections to stations across most parts of Oakland. 
 
-### [KJ6WEG-OAK-Griz-HAP](http://kj6weg-oak-griz-hap.local.mesh)
-
-* MikroTik Routerboard hAP ac lite
-* No Mesh RF. 
-* In the shack, for providing local mesh access, and soon for adding an internet connection.
-* Power (24v) provided by grid power.
-
 ### Wireless Wire
 
 * MikroTik Wireless Wire
 * 60 GHz wireless link, acts like an RF ethernet cable
 * Does NOT run AREDN firmware
-* Provides a trunk link between the ORCA site and the Griz/KPFA site (~100m)
+* Provides a trunk link between the Griz/KPFA site and the ORCA site (~100m)
 * Connects to the mesh nodes through a Juniper Networks switch with VLANs configured
 * Allows mesh nodes at the two sites to have DTD links to eachother
+
+Note: The MikroTik hAP (KJ6WEG-OAK-Griz-HAP) at the Griz site has been removed as it was not needed. 
 
 ***
 
